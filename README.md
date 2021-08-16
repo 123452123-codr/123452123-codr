@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript, C++, C# and Python
 - 💞️ I'm currently working on projects @Thunkable and @Kodular
 - 😎 Pronouns : He/his
-- ⚡ Fun fact : I don't like CSS at all...😁
+- ⚡ Fun fact : Now CSS is Okay for me!😁
 
 <img src='https://github-readme-stats.vercel.app/api?username=123452123-codr&show_icons=true&theme=merko&count_private=true&line_height=40' align="left" />
 

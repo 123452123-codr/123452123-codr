@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Javascript, C++, CSS, Python and HTML...
 - 💞️ I'm currently working on a chatting website named <a href="https://enjoychattingpro.web.app">Enjoy Chatting!</a>. Do visit it at https://enjoychattingpro.web.app !
 - 😎 Pronouns : He/him
-- ⚡ Note : Never use my code without giving credit to me as all my repositories are genuine...😎☠
+- ⚡ Note : Never use my code without giving me credit as all my repositories are genuine...😎☠
